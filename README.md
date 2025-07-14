@@ -1,1 +1,2 @@
 # Earthquake_Damage_Prediction
+This project involved predicting the seismic risk level of regions using historical earthquake data. Classification models including Random Forest, XGBoost, and SVM were developed. Extensive feature engineering and cross-validation were used to ensure model robustness and generalization. The goal was to assist in early warning and risk mitigation strategies through accurate classification. 
